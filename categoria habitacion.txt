@@ -1,0 +1,4 @@
+1;economica
+2;bussiness
+3;presidencial
+4;Turista

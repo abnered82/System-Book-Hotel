@@ -1,0 +1,10 @@
+economica;piso 2;cuarto 201;100.0;
+economica;piso 4;cuarto 402;80.0;
+economica;piso 3;cuarto 303;200.0;
+bussiness;piso 6;cuarto 101;800.0;
+presidencial;piso 14;cuarto 1403;1500.0;
+economica;piso 5;cuarto 503;200.0;
+Turista;piso 19;cuarto 1902;1200.0;
+presidencial;piso 11;cuarto 1903;1500.0;
+Turista;piso 17;cuarto 1703;1200.0;
+bussiness;piso 7;cuarto 701;800.0;

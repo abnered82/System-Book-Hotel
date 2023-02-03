@@ -1,0 +1,11 @@
+1;agua
+2;snack
+3;bebidas alcoholicas
+4;conservas
+5;cereales
+6;helados
+7;bebidas regenerativas
+8;chocolates
+9;golosinas
+10;gaseosa
+11;galletas

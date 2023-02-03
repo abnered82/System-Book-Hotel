@@ -1,0 +1,6 @@
+380279;luigi;yovera;71093565;21;Masculino
+2;franklin;calixto;54616542;21;Femenino
+3;marco;nose;51652231;19;Masculino
+4;geferson;chavez;54525162;14;Masculino
+5;harold;harold;76276059;22;Masculino
+6;luis;barcayola;76345638;25;Masculino

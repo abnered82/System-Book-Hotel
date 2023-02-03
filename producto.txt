@@ -1,0 +1,3 @@
+i103;san luis;bebida;1.5;
+b102;cielo;bebida;1.2;
+0015;Corona;bebidas alcoholicas;10.0;
